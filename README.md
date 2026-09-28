@@ -1,7 +1,4 @@
 # Medical_Insurance_cost_prediction
-Of course\! Here is a brief and informative description of your project, perfect for your GitHub README file.
-
------
 
 # Medical Insurance Prediction System
 
