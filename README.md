@@ -1,4 +1,3 @@
-# Medical_Insurance_cost_prediction
 
 # Medical Insurance Prediction System
 
